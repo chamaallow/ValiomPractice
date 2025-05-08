@@ -1,0 +1,9 @@
+name: ValiomPractice
+version: 1.0
+main: com.valiom.practice.ValiomPractice
+api-version: 1.8
+depend: [ValiomCore]
+
+commands:
+  hub:
+    description: Retour au lobby
